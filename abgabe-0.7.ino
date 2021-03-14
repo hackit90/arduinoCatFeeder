@@ -15,7 +15,7 @@
  * - LC-DISPLAY VON FENDUINO (0x27, 16, 2)
  * - 220 Ohm Widerstand
  * 
- * Autor: Subakeesan Kanapathipillai, 08.03.2021
+ * Autor: Subi, 08.03.2021
  * Webseite: https://flsk.io/catfeeder
  * Dokumentation: https://flsk.io/catfeeder
  */
